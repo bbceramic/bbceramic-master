@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Parcours on Barbara Billoud</title>
+    <link>https://bbceramic.netlify.com/parcours/</link>
+    <description>Recent content in Parcours on Barbara Billoud</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    
+	<atom:link href="https://bbceramic.netlify.com/parcours/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

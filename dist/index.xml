@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bonjour. Moi c&#39;est Barbara. on Barbara Billoud</title>
+    <link>https://bbceramic.netlify.com/</link>
+    <description>Recent content in Bonjour. Moi c&#39;est Barbara. on Barbara Billoud</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    
+	<atom:link href="https://bbceramic.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>https://bbceramic.netlify.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bbceramic.netlify.com/contact/</guid>
+      <description>Tu es étudiant, artiste, potier, collectionneur, galeriste, architecte&amp;hellip; Travaillons ensemble ! Que ce soit pour une simple envie d&amp;rsquo;échanger, travailler ensemble, faire un stage, venir me rendre visite à l&amp;rsquo;atelier, t&amp;rsquo;abonner à ma newsletter ou me suggérer une amélioration pour le site, &amp;hellip;
+contacte-moi directement :  Barbara Billoud
+48 rue Marceau
+95430 Auvers-sur-Oise
+France
+bbceramic@gmail.com
+tél +33 (0)6 17 58 94 73
+ ou utilise ce formulaire de contact J&amp;rsquo;aime aussi beaucoup les petits mots tout doux !</description>
+    </item>
+    
+  </channel>
+</rss>

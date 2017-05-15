@@ -1,0 +1,28 @@
+title = "Barbara Billoud"
+baseURL = "https://bbceramic.netlify.com"
+languageCode = "fr-fr"
+theme = "gohugo-theme-ananke"
+#themesDir = "../.."
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "fr"
+SectionPagesMenu = "main"
+Paginate = 3 # un réglage bas pour démonstration. à régler sur un nombre plus élevé
+googleAnalytics = ""
+enableRobotsTXT = true
+publishDir ="dist"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  description = "Céramiste à Auvers-sur-Oise."
+  instagram = "https://instagram.com/bbceramist"
+  facebook = "https://www.facebook.com/barbara.billoud"
+  twitter = "https://twitter.com/barbarabilloud"
+  youtube = "https://www.youtube.com/channel/UC7Rl51KS59z_cGj2c2m6dQw"
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  #background_color_class = "bg-black"
+  featured_image = "/images/raku/vases-raku.jpg"
