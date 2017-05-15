@@ -1,12 +1,26 @@
 ---
-title: "Actualités"
+title: "Expositions"
 date: 2017-03-02T12:00:00-05:00
 featured_image: '/images/jarres/Famille_Jarres03.jpg'
-description : 'Expositions, actualités, animations, événements... une page à compléter'
+description : 'Où me trouver ? Expositions, actualités, animations, événements...'
 weight : 5
 ---
 
 En attendant d'organiser cette rubrique sous forme de blog (sans doute quelques articles classés par ordre chronologique inversé avec des catégories...), voici une rapide liste et quelques occasions à venir pour nous retrouver dans "la vraie vie".
+
+## Points de vente
+
+### Empreintes 
+5 rue de Picardie 75003 Paris 
+
+
+### Boutique Talents Étoile 
+(Boutique des Ateliers d'Art de France)
+26 avenue Niel 75017 Paris 
+ 
+
+
+## Expositions en cours et à venir  
 
 ####  > Auvers-sur-Oise
 ##### du samedi 6 au lundi 8 mai 2017 de 10h00 à 18h00 

@@ -53,7 +53,7 @@ L'[arbre aux pétales de porcelaines](http://www.larbrefeerique.com/fr/). Une oe
 
 ### Bijoux, luminaire,... à suivre
 
-Alliance du métal et de pierre, recherches exploratoires sur le light design, je suis actuellement quelques formations et tentent des expériences. Très intéressée pour tisser de nouveaux liens. Si ces deux thématiques vous intéressent, [rencontrons-nous](/contact) vite :)
+Alliance du métal et de pierre, recherches exploratoires sur le light design, je suis actuellement quelques formations et tente des expériences. Très intéressée pour tisser de nouveaux liens. Si ces deux thématiques vous intéressent, [rencontrons-nous](/contact) vite :)
 
 
 
